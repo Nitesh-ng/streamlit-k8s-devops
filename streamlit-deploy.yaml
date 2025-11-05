@@ -17,6 +17,7 @@ spec:
         image: nitesh181/streamlit-marathi-summary:latest
         ports:
         - containerPort: 8501
+
 ---
 apiVersion: v1
 kind: Service
